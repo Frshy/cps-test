@@ -65,7 +65,7 @@ const OneSecond = () => {
         >
             <Text>
                 {!beenClicking ? (
-                    <>You haven't clicked yet :(</>
+                    <>{'You haven\'t clicked yet :('}</>
                 ) : (
                     <>
                         {gameRunning ? (

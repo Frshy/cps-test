@@ -65,7 +65,7 @@ const FiveSeconds = () => {
         >
             <Text>
                 {!beenClicking ? (
-                    <>You haven't clicked yet :(</>
+                    <>{'You haven\'t clicked yet :('}</>
                 ) : (
                     <>
                         {gameRunning ? (
