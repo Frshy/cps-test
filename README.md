@@ -1,6 +1,7 @@
 <h2>Cps Test</h2>
 Cps test is basic web app made with nextjs using chakra-ui as ui framework. <br>
 I made this project to get started with chakra-ui. Timer may not be accurate, because I did not focus on it. The main point was to make basic design using chakra. <br>
+Deployed: https://cps-test-peach.vercel.app/
 
 ## Getting Started
 
